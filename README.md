@@ -1,4 +1,4 @@
-# Algorithms-and-competitive-programming-using-java
+# Algorithms and competitive programming using java
 Welcome to the repository!
 In this GitHub repository, you will find an extensive collection of implemented algorithms and their practical applications as powerful patterns for solving a wide range of problems. Whether you are a seasoned developer looking to brush up on algorithms or a curious learner eager to explore their potential, this repository has something valuable to offer.
 Our goal here is to provide well-structured, efficient, and thoroughly tested implementations of various algorithms that are commonly encountered in computer science and software engineering. Each algorithm is accompanied by comprehensive documentation, explaining its underlying concepts, and usage instructions.
